@@ -22,8 +22,8 @@ Le projet implémente différents outils d'analyse statistique et économétriqu
 * **Estimation de la moyenne d'âge :** Ponctuelle et par Intervalle de Confiance (IC à 95% : `[26.68 , 27.85]`).
 * **Test de conformité (t-test unilatéral) :** Comparaison du taux de passes réussies en LDC face à la Premier League (Validation d'une performance technique supérieure en LDC au seuil de 5%).
 * **Comparaison de caractéristiques théoriques :**
-  * *Test d'égalité des moyennes (Welch Test) :* Analyse de la différence d'âge moyenne entre milieux (profils plus jeunes/dynamiques) et défenseurs (profils plus matures/expérimentés).
-  * *Test d'égalité des variances (F-test) :* Analyse de la dispersion du temps de jeu entre attaquants et défenseurs.
+  * *Test d'égalité des moyennes :* Analyse de la différence d'âge moyenne entre milieux (profils plus jeunes/dynamiques) et défenseurs (profils plus matures/expérimentés).
+  * *Test d'égalité des variances :* Analyse de la dispersion du temps de jeu entre attaquants et défenseurs.
 * **Test d'indépendance du Chi-deux ($\chi^2$) :** Analyse de la contingence entre les classes d'âge et les postes occupés.
 
 ## Technologies & Librairies R
